@@ -1,2 +1,2 @@
-# Python-Django
-Python and Django practice 
+# Python
+Python practice 
